@@ -91,5 +91,7 @@ project-folder/
 ---
 
 ## Contact
-For any inquiries or suggestions, reach out via email at [contactus@gmail.com](mailto:milindatram99@gmail.com).
+For any inquiries or suggestions, reach out via email at [milindatram99@gmail.com](mailto:milindatram99@gmail.com).
 
+## Author
+Milind
